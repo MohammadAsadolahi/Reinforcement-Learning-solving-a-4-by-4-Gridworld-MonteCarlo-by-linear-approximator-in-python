@@ -7,7 +7,6 @@
 [![Python 3.8+](https://img.shields.io/badge/Python-3.8%2B-3776AB?logo=python&logoColor=white)](https://python.org)
 [![NumPy](https://img.shields.io/badge/NumPy-Scientific%20Computing-013243?logo=numpy)](https://numpy.org)
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-11557c)](https://matplotlib.org)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![RL](https://img.shields.io/badge/Reinforcement%20Learning-Monte%20Carlo-red)]()
 
 <br>
@@ -237,7 +236,7 @@ This yields the **LMS (Least Mean Squares)** update rule — the simplest instan
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/Reinforcement-Learning-solving-a-4-by-4-Gridworld-MonteCarlo-by-linear-approximator-in-python.git
+git clone https://github.com/MohammadAsadolahi/Reinforcement-Learning-solving-a-4-by-4-Gridworld-MonteCarlo-by-linear-approximator-in-python.git
 cd Reinforcement-Learning-solving-a-4-by-4-Gridworld-MonteCarlo-by-linear-approximator-in-python
 
 # Install dependencies
@@ -315,6 +314,8 @@ python generate_plots.py
 
 <br>
 
-<sub>Developed as part of ongoing research into scalable value function approximation methods in reinforcement learning.</sub>
+**Mohammad Asadolahi** — Senior Agentic AI Engineer | Focus: Agentic AI Architectures In The Wild
+
+<sub>This README was generated with AI assistance.</sub>
 
 </div>
